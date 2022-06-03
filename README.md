@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai MAnohar
+- 👋 Hi, I’m Sai Manohar
 - 👀 I’m interested in Waste to wonder, Clean energy and SDG related projects
 - 🌱 I’m currently learning Java, Tensor flows
 - 💞️ I’m looking to collaborate on Machine learnign and AI releated projects
